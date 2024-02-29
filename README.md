@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Biswarup Mahato</h1>
 <h3 align="center">A passionate Web developer from India |To fix an error, I prefer a cup of tea. 🍵</h3>
 
-<img aligin="right" alt="gif" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
+<img align="right" alt="gif" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
 
 - 🌱 I’m currently learning **Node.js,MongoDb**
 
